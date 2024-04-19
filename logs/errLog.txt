@@ -1,0 +1,7 @@
+20240418	17:00:16	050c8617-8262-451c-ab9f-5db3cb499955	SyntaxError: Unexpected token 'e', "
+eyJhbGciOi"... is not valid JSON
+20240418	18:02:19	a46f885d-251d-46f0-8f0d-e766fb10cabc	TypeError: Cannot read properties of undefined (reading 'username')
+20240418	18:02:57	d45101be-0d58-4f83-8f43-7d36496b1367	TypeError: Cannot read properties of undefined (reading 'username')
+20240418	18:04:01	5f5b2902-c9d7-4ceb-8d6d-186504ae4a77	TypeError: Cannot read properties of undefined (reading 'username')
+20240418	19:11:25	15e0688a-48cf-467c-a9f9-0849cad27147	ReferenceError: headers is not defined
+20240418	19:12:04	43ce2144-dd99-4c39-a266-c03b987dd702	TypeError: console is not a function
